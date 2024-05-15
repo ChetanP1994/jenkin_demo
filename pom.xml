@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>jenkin_demo</finalName>
+		<finalName>docker_jenkin_demo</finalName>
 	</build>
 
 </project>
